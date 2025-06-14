@@ -45,8 +45,8 @@ Pickle / Joblib for model persistence
 🚀 Getting Started
 1. Clone the repository
 ```bash
-   git clone https://github.com/yourusername/upi-fraud-detector.git
-   cd upi-fraud-detector
+   git clone https://github.com/Qudsiya954/Fraud-Detection.git
+   cd Fraud-Detection
 ```
 2. Install dependencies
 ```bash
